@@ -1,5 +1,10 @@
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYxNzM0OTAsIm5iZiI6MTcxNjE3MzE5MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTIwVDAyNDYzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmNmQzMGNkNWFkNmQ2NWQzYjllODA3MGE2NDdmMzhiNGI0M2Y4MTg2YTlhNGI4OTE5M2JmMDQxZGI0NmRjMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Sf5H5Lsm52zRWCdq_Rg7jOUwsQz0N9oRx_NePhTcIOc)
+
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate data science and computer science enthusiast on a journey to explore the depths of data and technology, turning complex problems into innovative solutions.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-hub&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-hub" /> </p>
 
@@ -14,7 +19,7 @@
 - 💬 Ask me about 
   - 🎓 Master's in Computer Science @ Indiana University Bloomington
   - 💼 Research Assistant @ Indiana University Bloomington, USA
-  - 💻 Software Engineer @ Tata Consultancy Services, Pune, India 
+  - 💻 Software Engineer @ Tata Consultancy Services, Mumbai, India 
 
 - 📫 How to reach me **vmshreya1999@gmail.com**
 
