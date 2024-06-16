@@ -21,7 +21,7 @@
   - 💼 Research Assistant @ Indiana University Bloomington, USA
   - 💻 Software Engineer @ Tata Consultancy Services, Mumbai, India 
 
-- 📫 How to reach me **vmshreya1999@gmail.com**
+- 📫 How to reach me **svarghe@iu.edu** , **vmshreya1999@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vrbLOwYMZNcTTVxRLSgEFTtj4B_kjAaJ/view](https://drive.google.com/file/d/1vrbLOwYMZNcTTVxRLSgEFTtj4B_kjAaJ/view)
 
