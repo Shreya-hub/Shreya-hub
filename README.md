@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently, I am working as a Research Assistant, **focusing on Qualitative Data Analysis to uncover deep insights and inform strategic decisions**
+- 🔭 Currently, I am working as a Research Data Analyst, **focusing on Qualitative Data Analysis to uncover deep insights and inform strategic decisions**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
